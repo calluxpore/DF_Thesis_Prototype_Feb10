@@ -11,9 +11,9 @@ Mind Palace XR is an innovative Unity-based application that transforms your rea
 4. The 2D image is converted into a detailed 3D model using StabilityAI's Text to 3D Model API.
 5. Finally, the 3D model is displayed in your virtual environment using GLTFast Package.
 
-![Mind Palace XR Workflow](diagram.png)
-
 This technology serves as a powerful memory enhancement tool, allowing users to create personalized "memory palaces" at world scale - virtual spaces filled with 3D representations of things they want to remember. By associating information with these interactive 3D models, users can utilise spatial memory techniques for better information recall.
+
+![Mind Palace XR Workflow](diagram.png)
 
 ## Table of Contents
 
