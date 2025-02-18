@@ -1,6 +1,3 @@
-Below is a detailed README in Markdown format that you can use for your GitHub repository:
-
------------------------------------------------------------
 # Mind Palace XR
 
 Mind Palace XR is an innovative Unity-based application that transforms your real-world surroundings into interactive 3D memory aids. Here's how it works:
