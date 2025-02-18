@@ -8,9 +8,9 @@ Mind Palace XR is an innovative Unity-based application that transforms your rea
 2. Using Google's Gemini AI, it generates a detailed description of the captured scene via its API.
 3. This description is then transformed into a stylized 2D image using FalAI's image generation API.
 4. The 2D image is converted into a detailed 3D model using StabilityAI's Text to 3D Model API.
-5. Finally, the 3D model is displayed in your virtual environment using GLTFast Package.
+5. Finally, the 3D model is displayed in your augmented environment using GLTFast Package.
 
-This technology serves as a powerful memory enhancement tool, allowing users to create personalized "memory palaces" at world scale - virtual spaces filled with 3D representations of things they want to remember. By associating information with these interactive 3D models, users can utilise spatial memory techniques for better information recall.
+This technology serves as a powerful memory enhancement tool, allowing users to create personalized "memory palaces" at world scale - augmented spaces filled with 3D representations of things they want to remember. By associating information with these interactive 3D models, users can utilise spatial memory techniques for better information recall.
 
 ![Mind Palace XR Workflow](new_diagram.png)
 
@@ -31,7 +31,7 @@ Mind Palace XR leverages cutting-edge AI technologies to create an immersive mem
 2. *AI Scene Understanding:* Employs Google's Gemini API for advanced scene analysis and description generation.
 3. *Artistic Interpretation (limited agency):* Utilizes FalAI to transform textual descriptions into visually striking 2D representations.
 4. *3D Transformation:* Converts 2D imagery into detailed 3D models via StabilityAI's advanced 3D generation technology.
-5. *Spatial Integration:* Places these 3D memory aids in your virtual space using Unity's GLTFast rendering system.
+5. *Spatial Integration:* Places these 3D memory aids in your augmented space using Unity's GLTFast rendering system.
 
 The entire pipeline operates seamlessly in real-time, allowing users to create and populate their personal memory spaces naturally and intuitively.
 
@@ -41,7 +41,7 @@ The entire pipeline operates seamlessly in real-time, allowing users to create a
 - *AI-Powered Scene Analysis:* Sophisticated scene understanding using Google's Gemini Vision API.
 - *Dynamic 2D Visualization:* High-quality image generation through FalAI's advanced image synthesis API.
 - *Automated 3D Model Creation:* Cutting-edge 3D model generation using StabilityAI's specialized 3D conversion API.
-- *Spatial Memory Enhancement:* Strategic placement of 3D models in your virtual space for optimal memory retention.
+- *Spatial Memory Enhancement:* Strategic placement of 3D models in your augmented space for optimal memory retention.
 - *Persistent Memory Palace:* Local storage of generated 3D models with automatic organization and timestamping.
 - *Intuitive Controls:* Simple UI controls for capturing, generating, and placing memory objects.
 
@@ -69,7 +69,7 @@ The Mind Palace XR workflow is designed to be intuitive and efficient:
    - The model is automatically saved to your local memory palace collection
 
 5. *Spatial Placement*
-   - The 3D model appears in your virtual space
+   - The 3D model appears in your augmented space
    - Position and scale are automatically optimized for viewing
    - Users can adjust placement for optimal memory association
 
