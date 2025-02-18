@@ -13,7 +13,7 @@ Mind Palace XR is an innovative Unity-based application that transforms your rea
 
 This technology serves as a powerful memory enhancement tool, allowing users to create personalized "memory palaces" at world scale - virtual spaces filled with 3D representations of things they want to remember. By associating information with these interactive 3D models, users can utilise spatial memory techniques for better information recall.
 
-![Mind Palace XR Workflow](diagram.png)
+![Mind Palace XR Workflow](new_diagram.png)
 
 ## Table of Contents
 
