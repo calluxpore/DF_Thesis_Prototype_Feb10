@@ -1,5 +1,7 @@
 # Mind Palace XR
 
+![Mind Palace XR poster](poster.png)
+
 Mind Palace XR is an innovative Unity-based application that transforms your real-world surroundings into interactive 3D memory aids. Here's how it works:
 
 1. The app captures what you're looking at through your device's camera
