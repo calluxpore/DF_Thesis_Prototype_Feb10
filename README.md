@@ -86,6 +86,7 @@ The Mind Palace XR workflow is designed to be intuitive and efficient:
 - *Improved Model Generation:* Higher fidelity 3D models with better detail preservation
 - *Cross-Platform Support:* Expanded device compatibility including Andorid XR
 - *Performance Optimization:* Faster processing and reduced memory footprint
+- *Style choices:* Allow users to choose the style of the 2D image and 3D model
 
 ## Development Tools
 
