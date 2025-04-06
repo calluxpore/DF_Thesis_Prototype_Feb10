@@ -47,6 +47,9 @@ The entire pipeline operates seamlessly in real-time, allowing users to create a
 
 ## Workflow
 
+![Step 1](step1_th.png)
+![Step 2](step2_th.png)
+
 The Mind Palace XR workflow is designed to be intuitive and efficient:
 
 1. *Initiating a Memory Capture*
