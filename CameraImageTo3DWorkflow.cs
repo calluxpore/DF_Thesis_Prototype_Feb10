@@ -60,7 +60,7 @@ public class CameraImageTo3DWorkflow : MonoBehaviour {
         // Generate caption from the image using GeminiTextToText
         string caption = "";
         Task<string> captionTask = GeminiAPI.GenerateCaptionFromImageAsync(readableTexture, 
-            "You task is to create a prompt for an AI image generator. The prompt will be used to generate a 2D image representation of a 3d model to help the user to remember the object in center of the image which the user will send. This is for a memory palace technique.");
+            "Your task is to create a prompt for an AI image generator. The prompt will generate a 2D image of a 3D model to help the user remember the object at the center of the image. This is for the memory palace technique.");
         yield return new WaitUntil(() => captionTask.IsCompleted);
         if(captionTask.IsCompletedSuccessfully) {
             caption = captionTask.Result;
